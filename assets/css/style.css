@@ -82,3 +82,8 @@ a {
 .header .action {
   margin-left: 49px;
 }
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
